@@ -1,4 +1,4 @@
-const CACHE = 'gym-timer-offline-v3';
+const CACHE = 'gym-timer-offline-v4-landscape';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(CORE)).then(() => self.skipWaiting()));
