@@ -1,5 +1,2 @@
-GYM TIMER Ver 3.6.0
-横画面集中表示の左側イラストをGIFから静止画PNGへ変更。
-運動中: work.png / 休憩中: rest.png
-GitHubリポジトリ直下へファイルをすべてアップロードしてください。
-旧work.gif/rest.gifは不要です。
+GYM TIMER v3.9.0
+最後の3秒を英語音声 Three, Two, One で読み上げます。音声ファイルを含む全ファイルをGitHub Pagesへアップロードしてください。iPhoneの消音モード・画面ロック中の音声再生は保証されません。
